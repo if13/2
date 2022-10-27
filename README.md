@@ -1,3 +1,3 @@
 Проекты выполненные в рамках обучающего курса Яндекс.Практикум специализации Data Scientist.
 
-in dowloading progress... 15%
+in downloading progress... 15%
