@@ -1,1 +1,3 @@
-# Yandex.Practicum_Data-scientist
+Проекты выполненные в рамках обучающего курса Яндекс.Практикум специализации Data Scientist.
+
+in dowloading progress...
